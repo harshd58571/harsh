@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{C8181D5C-F7AC-41AD-A41C-7813C65CEE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCompany", "MyCompany\MyCompany.csproj", "{C2B280A0-4F59-4140-B06C-D40A1FB6A2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{317BD606-74FD-43A7-93DA-82C051436759}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B280A0-4F59-4140-B06C-D40A1FB6A2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B280A0-4F59-4140-B06C-D40A1FB6A2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B280A0-4F59-4140-B06C-D40A1FB6A2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317BD606-74FD-43A7-93DA-82C051436759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317BD606-74FD-43A7-93DA-82C051436759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317BD606-74FD-43A7-93DA-82C051436759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {C8181D5C-F7AC-41AD-A41C-7813C65CEE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8181D5C-F7AC-41AD-A41C-7813C65CEE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8181D5C-F7AC-41AD-A41C-7813C65CEE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
